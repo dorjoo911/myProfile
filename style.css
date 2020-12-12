@@ -15,7 +15,7 @@ body {
 }
 .resume-left {
   display: inline-block;
-  margin-left: 40px;
+  margin-left: 10px;
   background-color: black;
   color: rgb(60, 133, 241);
   text-align: center;
